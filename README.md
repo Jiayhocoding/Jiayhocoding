@@ -73,7 +73,7 @@ Runtime clock-frequency switching system implemented on an **Intel Agilex 5 FPGA
 ## 📫 Connect with Me
 
 - GitHub: [Jiayhocoding](https://github.com/Jiayhocoding)
-- LinkedIn: Add LinkedIn URL here
+- LinkedIn:(https://www.linkedin.com/in/jiayao-zhuang-3b087242a/)
 
 ---
 
